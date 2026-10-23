@@ -141,23 +141,6 @@ java-lab/
 
 ---
 
-## 📤 How to Add More Folders / Experiments
-
-To add and push new lab folders or experiments to this repository:
-
-1. **Create / Paste your folder** into the workspace root (e.g. `c:\Users\shubh\Desktop\java-lab1\new-experiment`).
-2. **Add code files** into that folder (Git does not track completely empty folders).
-3. **Stage, commit, and push** using PowerShell or Git Bash:
-   ```bash
-   git status
-   git add .
-   git commit -m "Add <folder-name> experiment"
-   git push origin main
-   ```
-4. **Update `README.md`** to keep the structure and run instructions in sync!
-
----
-
 ## 👨‍💻 Author
 
 - **Name:** Shubham Nagpal
