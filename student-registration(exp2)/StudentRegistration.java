@@ -19,7 +19,7 @@ public class StudentRegistration extends JFrame implements ActionListener {
 
     private static final String USER = "root";
 
-    private static final String PASSWORD = "Sh@270806";
+    private static final String PASSWORD = "";
     // If your MySQL root user has a password, put it here.
 
     public StudentRegistration() {
